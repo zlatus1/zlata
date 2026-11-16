@@ -1,0 +1,7 @@
+=== Проверка портов на 127.0.0.1 ===
+[CLOSED] HTTP (:80)
+[CLOSED] PostgreSQL (:5432)
+[CLOSED] SSH (:22)
+[CLOSED] HTTPS (:443)
+[OPEN] MySQL (:3306)
+Код возврата: 0

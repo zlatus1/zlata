@@ -1,0 +1,17 @@
+[CREATE] /home//01_practice_rosa_linux/runtime
+[OK] Структура создана:
+total 29
+drwxrwxrwx 1 batjix batjix  512 Nov 17 00:53 .
+drwxrwxrwx 1 batjix batjix  512 Nov 17 00:56 ..
+-rwxrwxrwx 1 batjix batjix  911 Nov 17 01:03 integrity_check.sh
+-rwxrwxrwx 1 batjix batjix  772 Nov 17 01:03 load_test.sh
+-rwxrwxrwx 1 batjix batjix 1220 Nov 17 01:03 log_check.sh
+drwxrwxrwx 1 batjix batjix  512 Nov 17 00:53 logs
+-rwxrwxrwx 1 batjix batjix 1087 Nov 17 01:03 os_check.sh
+-rwxrwxrwx 1 batjix batjix  592 Nov 17 01:03 port_check.sh
+drwxrwxrwx 1 batjix batjix  512 Nov 17 00:53 reports
+-rwxrwxrwx 1 batjix batjix  762 Nov 17 01:03 run_all.sh
+-rwxrwxrwx 1 batjix batjix 1056 Nov 17 01:03 setup.sh
+-rwxrwxrwx 1 batjix batjix 1296 Nov 17 01:03 web_test.sh
+[2026-11-17 01:03:08] Окружение создано: /home/01_practice_rosa_linux/runtime
+Код возврата: 0
